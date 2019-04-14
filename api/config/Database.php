@@ -1,7 +1,7 @@
 <?php 
     class Database{
 
-        private $host = 'https://forms.achva.ac.il';
+        private $host = '127.0.0.1';
         private $db_name = 'achva_calc';
         private $username = 'achvaforms';
         private $password = 'achvauserforms';
